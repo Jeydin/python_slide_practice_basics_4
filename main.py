@@ -1,5 +1,5 @@
 # Heading
 
 # Name - Jeydin Pham
-# Date - October 20, 2021
-# Title - Slide Practice Unit 5 Strings
+# Date - October 21, 2021
+# Title - Unit 5 Slide Practice Notes: STRINGS
